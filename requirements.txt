@@ -1,4 +1,4 @@
-selenium==4.0.0a1
+selenium==4.15.1
 phonenumbers==8.12.2
 boto3==1.13.4
 pyvirtualdisplay==0.2.5
